@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					8E7B10761EDACBF200322F13 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = RH7TZK32NA;
 						ProvisioningStyle = Automatic;
 					};
 					8E7B108A1EDACBF200322F13 = {
@@ -339,6 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RH7TZK32NA;
 				INFOPLIST_FILE = help_me/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "yoshiisland.help-me";
@@ -351,6 +353,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RH7TZK32NA;
 				INFOPLIST_FILE = help_me/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "yoshiisland.help-me";

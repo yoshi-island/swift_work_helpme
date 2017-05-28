@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  help_me
 //
-//  Created by 吉原有華 on 5/28/17.
 //  Copyright © 2017 yoshiisland. All rights reserved.
 //
 
